@@ -1,0 +1,19 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 2 · Why is the independent completion rate only 33.33% for 'Switch cargo bay'?",
+  "row": 2,
+  "record": {
+    "Task": "Switch cargo bay",
+    "Observed": 3,
+    "Independent": 1,
+    "Assisted": 1,
+    "Abandoned": 1,
+    "Independent (%)": 33.33,
+    "Timed completions": 2,
+    "Median completion (s)": 41.0,
+    "Timed abandonments": 1,
+    "Median before abandoning (s)": 62
+  },
+  "source_sha256": "e785821bdff0c4cc7deb3965303b92222f0615637223b7a236ccb4ab3266de1f",
+  "report_sha256": "e9ce277f5a34960d2a6bcfaddc421ba677f2217a4347bf0bab068a2446b2ba84"
+}

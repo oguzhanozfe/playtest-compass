@@ -2,6 +2,8 @@
 
 Compare independent wins, assisted completions, abandonments and active task time from observed playtests.
 
+**[Open the live demo](https://oguzhanozfe.github.io/playtest-compass/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Playtest Compass showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/playtest-compass) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)
