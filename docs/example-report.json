@@ -1,0 +1,47 @@
+{
+  "summary": "4 players supplied 9 task observations. 5 finished independently and 1 ended in abandonment.",
+  "metrics": {
+    "Players": 4,
+    "Task observations": 9,
+    "Independent completions": 5,
+    "Abandonments": 1
+  },
+  "rows": [
+    {
+      "Task": "First landing",
+      "Observed": 4,
+      "Independent": 3,
+      "Assisted": 1,
+      "Abandoned": 0,
+      "Independent (%)": 75.0,
+      "Timed completions": 3,
+      "Median completion (s)": 29,
+      "Timed abandonments": 0,
+      "Median before abandoning (s)": null
+    },
+    {
+      "Task": "Switch cargo bay",
+      "Observed": 3,
+      "Independent": 1,
+      "Assisted": 1,
+      "Abandoned": 1,
+      "Independent (%)": 33.33,
+      "Timed completions": 2,
+      "Median completion (s)": 41.0,
+      "Timed abandonments": 1,
+      "Median before abandoning (s)": 62
+    },
+    {
+      "Task": "Refuel",
+      "Observed": 2,
+      "Independent": 1,
+      "Assisted": 1,
+      "Abandoned": 0,
+      "Independent (%)": 50.0,
+      "Timed completions": 2,
+      "Median completion (s)": 25.0,
+      "Timed abandonments": 0,
+      "Median before abandoning (s)": null
+    }
+  ]
+}

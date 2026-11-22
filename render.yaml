@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: playtest-compass
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: MODEL_PROVIDER
+        value: "off"

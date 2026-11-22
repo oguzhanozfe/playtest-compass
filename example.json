@@ -1,0 +1,58 @@
+{
+  "observations": [
+    {
+      "player": "P01",
+      "task": "First landing",
+      "outcome": "independent",
+      "active_seconds": 24
+    },
+    {
+      "player": "P02",
+      "task": "First landing",
+      "outcome": "independent",
+      "active_seconds": 29
+    },
+    {
+      "player": "P03",
+      "task": "First landing",
+      "outcome": "assisted",
+      "active_seconds": 52
+    },
+    {
+      "player": "P04",
+      "task": "First landing",
+      "outcome": "independent",
+      "active_seconds": null
+    },
+    {
+      "player": "P01",
+      "task": "Switch cargo bay",
+      "outcome": "assisted",
+      "active_seconds": 49
+    },
+    {
+      "player": "P02",
+      "task": "Switch cargo bay",
+      "outcome": "abandoned",
+      "active_seconds": 62
+    },
+    {
+      "player": "P03",
+      "task": "Switch cargo bay",
+      "outcome": "independent",
+      "active_seconds": 33
+    },
+    {
+      "player": "P01",
+      "task": "Refuel",
+      "outcome": "independent",
+      "active_seconds": 18
+    },
+    {
+      "player": "P03",
+      "task": "Refuel",
+      "outcome": "assisted",
+      "active_seconds": 32
+    }
+  ]
+}
